@@ -1,0 +1,45 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'JetBrains Mono', monospace;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 100px 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #bb86fc;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.card {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #333;
+}
+
+footer {
+    text-align: center;
+    padding: 40px;
+    border-top: 1px solid #333;
+}
+
+a {
+    color: #bb86fc;
+}
