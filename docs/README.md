@@ -12,4 +12,4 @@ A simple, modern portfolio website showcasing personal projects and skills.
    ```bash
    git clone https://github.com/Parkerssoshi/tai-simple-portfolio.git
    ```
-2. Open `index.html` in your browser.
+2. Open `docs/index.html` in your browser.
