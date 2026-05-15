@@ -3,3 +3,5 @@
 This is a sample project
 
 OK!
+
+This is the new line!
